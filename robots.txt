@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.download.swiftstudio.app/superjp.html/sitemap.xml
+Sitemap: https://ftp.download.swiftstudio.app/gilajp.html/sitemap.xml
+Sitemap: https://ftp.download.swiftstudio.app/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.download.swiftstudio.app/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.download.swiftstudio.app/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.download.swiftstudio.app/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.download.swiftstudio.app/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.download.swiftstudio.app/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.download.swiftstudio.app/pakong86.html/sitemap.xml
+Sitemap: https://ftp.download.swiftstudio.app/viral88.html/sitemap.xml
+Sitemap: https://ftp.download.swiftstudio.app/clan4d.html/sitemap.xml
+Sitemap: https://ftp.download.swiftstudio.app/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.download.swiftstudio.app/elang212.html/sitemap.xml
+Sitemap: https://ftp.download.swiftstudio.app/viral4d.html/sitemap.xml
